@@ -1,0 +1,98 @@
+[
+  {
+    "eventName": "A ciência da água",
+    "firstPersonName": "Gustavo Della Justina da Silva",
+    "personEmail": "gustavodjsilva@hotmail.com",
+    "firstPersonCourse": "Engenharia Química",
+    "secondPersonName": "Miguel Fernandes Roveri",
+    "secondPersonEmail": "miguel.roveri@ufms.com",
+    "secondPersonCourse": "Química Licenciatura",
+    "thirdPersonName": "Vinicius Pasian Barbosa",
+    "thirdPersonEmail": "viniciuspasian@hotmail.com",
+    "thirdPersonCourse": "Engenharia Química"
+  },
+  {
+    "eventName": "Indicador ácido-base com repolho roxo",
+    "firstPersonName": "Victor Augusto Gonçalves Dos Santos",
+    "personEmail": "victor_goncalves@ufms.br",
+    "firstPersonCourse": "Engenharia química",
+    "secondPersonName": "Andrielly Cristina Santana",
+    "secondPersonEmail": "andrielly.santana@ufms.br",
+    "secondPersonCourse": "Engenharia Química",
+    "thirdPersonName": "Geovana de Souza Almeida",
+    "thirdPersonEmail": "geovana.souza@ufms.br",
+    "thirdPersonCourse": "Química Licenciatura"
+  },
+  {
+    "eventName": "Microbiologia em mim",
+    "firstPersonName": "Thailenny Dantas Rezende",
+    "personEmail": "Thailennyrezendedantas@gmail.com",
+    "firstPersonCourse": "Ciências Biológicas- Licenciatura",
+    "secondPersonName": "Gabriela Beatriz Salina",
+    "secondPersonEmail": "Gabriel_beatriz@ufms.br",
+    "secondPersonCourse": "Ciências biológicas- Licenciatura",
+    "thirdPersonName": "00",
+    "thirdPersonEmail": "00",
+    "thirdPersonCourse": "00"
+  },
+  {
+    "eventName": "Aprendendo a entrevistar (cobertura básica jornalística - escrita, audiovisual e fotográfica do evento OFICIÊNCIAS 2022)",
+    "firstPersonName": "Beatriz Barreto Cardozo",
+    "personEmail": "beatriz.barreto@ufms.br",
+    "firstPersonCourse": "Jornalismo Bacharelado",
+    "secondPersonName": "Luana Gabriely Da Silva Guimarães",
+    "secondPersonEmail": "luana.guimaraes@ufms.br",
+    "secondPersonCourse": "Jornalismo Bacharelado",
+    "thirdPersonName": "Eliel de Oliveira Dias",
+    "thirdPersonEmail": "eliel_dias@ufms.br",
+    "thirdPersonCourse": "Jornalismo Bacharelado"
+  },
+  {
+    "eventName": "O Anel de Thomson e a apresentação do curso de Engenharia Física",
+    "firstPersonName": "Victor Augustho Barbosa",
+    "personEmail": "barbosavictoraugustho@gmail.com",
+    "firstPersonCourse": "Engenharia física",
+    "secondPersonName": "Murilo Magalhães Dias dos Santos",
+    "secondPersonEmail": "Murilo_magalhaes@ufms.br",
+    "secondPersonCourse": "Engenharia física",
+    "thirdPersonName": "Maria Victória Pereira Dias",
+    "thirdPersonEmail": "m.victoria@ufms.br",
+    "thirdPersonCourse": "Engenharia física"
+  },
+  {
+    "eventName": "Ocus Pocus",
+    "firstPersonName": "Gabriel França Ribeiro",
+    "personEmail": "gabriel039franca@gmail.com",
+    "firstPersonCourse": "Química licenciatura",
+    "secondPersonName": "Arthur Feliciano Camargo da Silva",
+    "secondPersonEmail": "arthurfeliciano555@gmail.com",
+    "secondPersonCourse": "Química Tecnológica Bacharel",
+    "thirdPersonName": "Letícia Suarez Gobbo",
+    "thirdPersonEmail": "leticiagobbo2002@gmail.com",
+    "thirdPersonCourse": "Química bacharelado"
+  },
+  {
+    "eventName": "Ensino dos tipos de dinossauros através da modelagem por biscuit",
+    "firstPersonName": "Jéssica Trindade dos Santos",
+    "personEmail": "j.trindade@ufms.br",
+    "firstPersonCourse": "Química Tecnológica Bacharelado",
+    "secondPersonName": "Maria Eduarda Cardoso da Silva",
+    "secondPersonEmail": "maria.e.cardoso@ufms.br",
+    "secondPersonCourse": "Química Tecnológica Bacharelado",
+    "thirdPersonName": "Vitoria Eduarda Machado Icassatti",
+    "thirdPersonEmail": "vitoria_icassatti@ufms.br",
+    "thirdPersonCourse": "Química Tecnológica Bacharelado"
+  },
+  {
+    "eventName": "Competindo por um mundo limpo",
+    "firstPersonName": "Cauê Cristaldo Benevides",
+    "personEmail": "caue_cristaldo@ufms.br",
+    "firstPersonCourse": "Química Bacharel",
+    "secondPersonName": "Matheus Correia Cáceres",
+    "secondPersonEmail": "matheus.correia@ufms.br",
+    "secondPersonCourse": "Bacharelado em Química Tecnológica",
+    "thirdPersonName": "Luiz Michel Arruda Nogueira",
+    "thirdPersonEmail": "michel.nogueira@ufms.br",
+    "thirdPersonCourse": "Química Licenciatura"
+  }
+]
