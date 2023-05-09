@@ -20,24 +20,24 @@ import { exec } from 'child_process'
 // }
 // data.forEach(({ personName, courseName }) => {
 //   console.log('Gerando certificados para:', personName)
-//   generateCertificate(personName, courseName, `${personName}_${new Date().toISOString().split('T')[0]}`)
+//   generateCertificate(personName, courseName, :`${personName}_${new Date().toISOString().split('T')[0]}`)
 // })
-let city = 'Miranda'
-let hours = 48;
-let edition = 66
+let city = 'Campo Grande'
+let hours = 4;
+let edition = 67
 
-dataJSON.forEach(({ eventName, firstPersonName, firstPersonCourse, secondPersonName, secondPersonCourse,
+dataJSON.forEach(({ EventName, firstPersonName, firstPersonCourse, secondPersonName, secondPersonCourse,
 thirdPersonName, thirdPersonCourse  }) => {
   const createDir = () => {
-    fs.existsSync(`./certificates/${eventName}`) ? null : fs.mkdirSync(`./certificates/${eventName}`)
+    fs.existsSync(`./certificates/${EventName}`) ? null : fs.mkdirSync(`./certificates/${EventName}`)
   }
 
   createDir();
-  console.log('Gerando certificados para:', eventName)
+  console.log('Gerando certificados para:', EventName)
   let peoplesNames = [firstPersonName, secondPersonName, thirdPersonName]
   let courses = [firstPersonCourse, secondPersonCourse, thirdPersonCourse]
 
 
-  generateCertificate(peoplesNames, courses, eventName, city, hours, edition)
+  generateCertificate(peoplesNames, courses, EventName, city, hours, edition)
 })
 
